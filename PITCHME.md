@@ -28,7 +28,7 @@
 
 ### Positionnement
 * Usages plutôt qu'outil
-* Dynamique collaboratives
+* Dynamique collaboratives (dont [Moustic](http://moustic.info/2017))
 * Suivi des stagiaires  
  ([Le groupe Facebook du dernier stage](https://www.facebook.com/groups/florac2018/)) 
  
