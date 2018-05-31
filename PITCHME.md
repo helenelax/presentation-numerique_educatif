@@ -1,16 +1,12 @@
 ### Le numérique éducatif à l'institut de Florac
-
----
-
-Hélène Laxenaire  
-Montpellier SupAgro - Institut d'éducation à l'agro-environnement de Florac  
 31 mai 2018
 
 ---
+### Actions
 
-Participation au dispositif Acoustice |
-4 stages PNF |
-Valorisation dans Pollen
+* Participation au dispositif Acoustice |
+* 4 stages PNF |
+* Valorisation dans Pollen
 
 ---
 
