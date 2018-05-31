@@ -6,7 +6,7 @@
 
 * Participation au dispositif Acoustice |
 * 4 stages PNF |
-* Valorisation dans Pollen
+* Valorisation dans Pollen |
 
 ---
 
