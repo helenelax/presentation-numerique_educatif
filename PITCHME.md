@@ -22,7 +22,7 @@
 * Google drive, wiki, les outils du Web : les comprendre pour les utiliser en classe |
 * L'esprit Fab-Lab : apprendre en bidouillant avec Arduino et les robots |
 * Facebook, Twitter, les réseaux sociaux : fonctionnement, enjeux et usages pédagogiques |
-* Insuffler une dynamique sur le numérique éducatif au sein de l'établissement grâce aux méthodes collaboratives *en 2018*  |
+* Insuffler une dynamique sur le numérique éducatif au sein de l'établissement grâce aux méthodes collaboratives |
 
 ---
 
